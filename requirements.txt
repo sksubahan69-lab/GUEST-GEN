@@ -1,0 +1,5 @@
+flask
+requests
+pycryptodome
+blackboxprotobuf
+urllib3
